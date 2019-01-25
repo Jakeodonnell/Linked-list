@@ -1,0 +1,22 @@
+SINGLE
+Testing function initLinkedList:17:testInitLinkedList:PASS
+Testing function initLinkedList:18:testAddLinkedList:PASS
+Testing function initLinkedList:19:testRemoveFirst:PASS
+Testing function initLinkedList:20:testRemoveLast:PASS
+Testing function initLinkedList:21:testAddRemoveLast:PASS
+Testing function initLinkedList:22:testAddRemoveFirst:PASS
+
+-----------------------
+6 Tests 0 Failures 0 Ignored
+OK
+DOUBLE
+Testing function initLinkedList:17:testInitLinkedList:PASS
+Testing function initLinkedList:18:testAddElement:PASS
+Testing function initLinkedList:19:testRemoveFirstElement:PASS
+Testing function initLinkedList:20:testRemoveLastElement:PASS
+Testing function initLinkedList:21:testAddRemoveFirst:PASS
+Testing function initLinkedList:22:testAddRemoveLast:PASS
+
+-----------------------
+6 Tests 0 Failures 0 Ignored
+OK
